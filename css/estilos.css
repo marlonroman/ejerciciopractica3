@@ -1,4 +1,6 @@
 
+
+
 h1{
     background-color: grey;
     color: azure;
@@ -21,3 +23,12 @@ h1{
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
+
+.parrafo3{
+    background-color: blueviolet;
+    color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    font-style: oblique;
+}
+
